@@ -10,3 +10,8 @@ calc_test
 
 ```
  ### Fail, pass, refactor
+ 
+ ##### When running a pytest use the following syntax in the terminal
+ ```python
+python -m pytest
+```
